@@ -4,6 +4,6 @@ The first ipynb file contains the model, which is a multioutput CNN using keras,
 
 The second one is done using Transfer Learning from VGG16. The sample code for Transfer Learning is taken from another github source and is edited to complete our model. 
 
-Sample cource on transfer Learning: https://github.com/krishnaik06/TransferLearning/blob/master/face_Recognition.py
+Sample source on transfer Learning: https://github.com/krishnaik06/TransferLearning/blob/master/face_Recognition.py
 
 Competition link: https://www.kaggle.com/c/bengaliai-cv19
