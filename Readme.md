@@ -4,7 +4,7 @@ The first ipynb file contains the model, which is a multioutput CNN using keras,
 
 The second one is done using Transfer Learning from VGG16. The sample code for Transfer Learning is taken from another github source and is edited to complete our model. Here I got accuracy around 80%.
 
-The p4_d3.ipynb file contains my best convnet model. Where I got 93% accuracy in the submission.
+The p4_d3.ipynb file contains my best convnet model. Where I got 89.78% accuracy in the final test.
 
 Sample source on transfer Learning: https://github.com/krishnaik06/TransferLearning/blob/master/face_Recognition.py
 
